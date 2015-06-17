@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="atlantic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/atlantic.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/atlantic-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

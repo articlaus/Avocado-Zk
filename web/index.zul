@@ -1,0 +1,31 @@
+<zk xmlns="http://www.zkoss.org/2005/zul"
+    xmlns:n="http://www.w3.org/1999/xhtml">
+
+    <panel id="indexPanel" border="none" height="100%" width="100%"
+           apply="org.zkoss.bind.BindComposer"
+           viewModel="@id('ip') @init('com.controller.IndexController')">
+
+        <panelchildren>
+
+
+            <borderlayout>
+                <north>
+                    <div style="background:blue">N</div>
+                </north>
+                <south>
+                </south>
+                <center>
+                    <div>C</div>
+                </center>
+                <east>
+                    <div style="background:yellow">E</div>
+                </east>
+                <west>
+                    <div style="background:yellow">W</div>
+                </west>
+            </borderlayout>
+        </panelchildren>
+
+    </panel>
+
+</zk>

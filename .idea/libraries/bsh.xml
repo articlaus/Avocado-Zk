@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="bsh">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/archive/zk/bsh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/flashchart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/sapphire.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/silvertail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/slf4j-jdk14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zhtml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zkbind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zkplus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zul.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive/zk/zweb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
